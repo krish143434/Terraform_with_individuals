@@ -64,4 +64,4 @@ Terraform AWS Individual Modules
 Authors
 =======
 
-Originally created and maintained by [Krishna Reddy]https://github.com/krish143434
+Originally created and maintained by [Krishna Reddy](https://github.com/krish143434)
